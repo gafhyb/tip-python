@@ -1,1 +1,1 @@
-PyJWT==1.7.1
+-r requirements/common.txt
